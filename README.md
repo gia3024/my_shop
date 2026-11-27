@@ -15,7 +15,7 @@ npm run dev
 npm run build
 ```
 
-## GitHub Pages hosting
+## GitHub Pages hosting------
 
 This repository includes `.github/workflows/deploy.yml` which deploys the `dist/` build output to GitHub Pages on pushes to `main`.
 
