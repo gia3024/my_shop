@@ -2,7 +2,7 @@
 
 A React frontend for a bakery shop, built with Vite and set up for GitHub Pages deployment.
 
-## Run locally
+## Run locallY
 
 ```bash
 npm install
