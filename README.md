@@ -1,4 +1,4 @@
-# Sweet Crumb Bakery Frontend
+#  Frontend
 
 A React frontend for a bakery shop, built with Vite and set up for GitHub Pages deployment.
 
